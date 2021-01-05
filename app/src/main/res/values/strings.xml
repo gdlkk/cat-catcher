@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CatCatcher</string>
+    <string name="welcomeMsg">Aby rozpocząć grę dotknij ekran.\n\nMusisz dotknąć kota jak najszybciej gdy tylko poajwi się na ekranie\nKot pojawi się 3 razy</string>
+    <string name="readyMsg">Uwaga!\nBądź gotowy na pojawienie się pierwszego kota</string>
+    <string name="nextMsg">Następny kot zaraz się pojawi!</string>
+    <string name="tooFastMsg">Za szybko!\nDotknij aby rozpocząć od nowa</string>
+    <string name="endMsg">Koniec\n\nAverage Time: #averageTime#\nBest Time: #bestTime#.\n\nDotknij ekran by rozpocząć od nowa</string>
+</resources>
